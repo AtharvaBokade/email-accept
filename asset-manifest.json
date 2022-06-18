@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/email-accept/static/css/main.ab732efd.css",
+    "main.js": "/email-accept/static/js/main.e8a0cf55.js",
+    "static/js/787.d90d1602.chunk.js": "/email-accept/static/js/787.d90d1602.chunk.js",
+    "index.html": "/email-accept/index.html",
+    "main.ab732efd.css.map": "/email-accept/static/css/main.ab732efd.css.map",
+    "main.e8a0cf55.js.map": "/email-accept/static/js/main.e8a0cf55.js.map",
+    "787.d90d1602.chunk.js.map": "/email-accept/static/js/787.d90d1602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab732efd.css",
+    "static/js/main.e8a0cf55.js"
+  ]
+}
